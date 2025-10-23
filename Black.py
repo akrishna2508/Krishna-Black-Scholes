@@ -1,9 +1,6 @@
 from math import log, sqrt, exp
 import numpy as np
-import matplotlib
-import matplotlib.pyplot
 import matplotlib.pyplot as plt
-import scipy
 import scipy.stats
 from scipy.stats import norm
 import tkinter as tk
